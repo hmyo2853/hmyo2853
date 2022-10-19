@@ -1,7 +1,6 @@
 
-<div align=center>
-	<h1>Hi there 👋</h1>
-	<h3>Ga eun Lee's github</h3>
+<h1>Hi there 👋</h1>
+<h3>Ga eun Lee's github</h3>
 	
 <a href="https://www.instagram.com/biniru_bongdari_jong2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://velog.io/@hying"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
@@ -11,6 +10,7 @@
 <br />
 <br />
 <br />
+<div>
 <h2>STACKS 🖥️ 🔧</h2>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
