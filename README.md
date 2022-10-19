@@ -4,8 +4,9 @@
 	<h3>Ga eun Lee's github</h3>
 	
 <a href="https://www.instagram.com/biniru_bongdari_jong2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmyo2853&count_bg=%238492FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
+<a href="https://velog.io/@hying"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://www.notion.so/Ga-eun-Lee-db5937393afa4fd1804f545bbc4e6913"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+
 ![Gaeun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmyo2853&show_icons=true)
 <br />
 <br />
