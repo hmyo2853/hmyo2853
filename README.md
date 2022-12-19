@@ -7,6 +7,7 @@
 <a href="https://generated-silence-3bf.notion.site/Ga-eun-Lee-db5937393afa4fd1804f545bbc4e6913" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 ![Gaeun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmyo2853&show_icons=true)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=hmyo2853&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 <br />
