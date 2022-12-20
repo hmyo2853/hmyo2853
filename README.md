@@ -6,8 +6,10 @@
 <a href="https://velog.io/@hying" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://generated-silence-3bf.notion.site/Ga-eun-Lee-db5937393afa4fd1804f545bbc4e6913" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
-![Gaeun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmyo2853&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmyo2853&langs_count=8)](https://github.com/hmyo2853/github-readme-stats)
+![State](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hmyo2853&theme=github)
+![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hmyo2853&theme=github)
+![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmyo2853&theme=github)
+
 <br />
 <br />
 <br />
