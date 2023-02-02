@@ -23,8 +23,6 @@
 	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
 <br />
-<br />
-<br />
 <h2>🎯 진행 프로젝트</h2>
 <div>
 <h3>팀 프로젝트</h3></div>
