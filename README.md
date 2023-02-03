@@ -25,12 +25,12 @@
 <br />
 <h2>🎯 진행 프로젝트</h2>
 <div>
-<h3>팀 프로젝트</h3></div>
+<h3>팀 프로젝트 레포지토리</h3></div>
 <div>- <a href="https://github.com/bbnerino/nal-ggu">당신의 날씨를 꾸미세요! 날꾸 (데모)</a></div>
 <div>- <a href="https://github.com/hmyo2853/cotton-candy-study-application">개발 스터디 발표 도우미 (진행 중)</a></div>
 <div>- <a href="https://github.com/pokeapi-advanced-wrapper/pokeapi-advanced-wrapper">포켓몬 API 라이브러리 advanced (진행 중)</a></div>
 <div>
-<h3>토이 프로젝트</h3></div>
+<h3>토이 프로젝트 레포지토리</h3></div>
 <div>- <a href="https://github.com/hmyo2853/deliveryAPI">택배 송장 조회 서비스, 내집앞택배</a> </div>
 <div>- <a href="https://github.com/hmyo2853/HowAreNews">오늘의 뉴스가 궁금하다면? How Are News?</a></div>
 <div>- <a href="https://github.com/hmyo2853/PukimonGo">푸키몬 넌 내꺼야! Pukimon Go! (진행중)</a></div>
