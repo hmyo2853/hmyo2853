@@ -5,7 +5,7 @@
 
 <a href="https://generated-silence-3bf.notion.site/Ga-eun-Lee-db5937393afa4fd1804f545bbc4e6913" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/가은-이-a82a871aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-
+<a href="https://gelee-devlog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a>
 
 <h2>🚀 STACKS</h2>
 <div>
