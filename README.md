@@ -26,4 +26,3 @@
 ![State](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hmyo2853&theme=github)
 ![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hmyo2853&theme=github)
 ![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmyo2853&theme=github)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hmyo2853&theme=flat&column=7)](https://github.com/hmyo2853/)
